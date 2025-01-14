@@ -1,7 +1,5 @@
 # Stats Notes
 
-https://drive.google.com/drive/folders/1yLDqeh93njCnr9M48NLONVZVLWKfHpXl?hl=id
-
 Anova: https://www.statskingdom.com/two-way-anova-calculator.html
 
 Chi squared: https://www.socscistatistics.com/tests/chisquare2/default2.aspx
